@@ -1,2 +1,3 @@
-# fcc-Timestamp-Microservice
-An API service that handles dates, and return the correct unix timestamp, UTC string or simply returns the current unix timestamp and UTC timestamp.
+# Timestamp Microservice
+
+This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
